@@ -9,7 +9,7 @@ function App() {
           <button className="w-12 h-12 bg-hubBlue hover:bg-hubDarkBlue border-2 border-hubBlue text-white">+</button>
           <button className="w-12 h-12 bg-hubBlue hover:bg-hubDarkBlue border-2 border-hubBlue text-white">-</button>
           <button className="w-12 h-12 bg-hubBlue hover:bg-hubDarkBlue border-2 border-hubBlue text-white">*</button>
-          <button className="w-12 h-12 bg-hubBlue hover:bg-hubDarkBlue border-2 border-hubBlue text-white">/</button>
+          <button className="w-12 h-12 bg-hubBlue hover:bg-hubDarkBlue border-2 border-hubBlue text-red-900">/</button>
         </div>
       </div>
       {/*Bottom of calulator */}

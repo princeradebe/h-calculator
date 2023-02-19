@@ -11,3 +11,9 @@
     margin: 0;
   }
 }
+
+/* 
+Tailwind CSS could not change the color of the arrows on the input type number. I tried to use the @layer base to change the color of the arrows but it didn't work. */
+button {
+  color: white;
+}

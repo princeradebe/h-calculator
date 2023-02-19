@@ -7,6 +7,7 @@ module.exports = {
     colors: {
       'hubRed': '#ff4d56',
       'hubBlue': '#33455B',
+      'hubDarkBlue': '#202D39',
 
     },
     extend: {},
